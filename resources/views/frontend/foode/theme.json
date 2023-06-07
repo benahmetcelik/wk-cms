@@ -1,0 +1,11 @@
+{
+    "name": "Foode V1",
+    "version": "1.0.0",
+    "description": "Foode V1",
+    "permissions": [
+        "slider",
+        "gallery",
+        "contact",
+        "about"
+    ]
+}
